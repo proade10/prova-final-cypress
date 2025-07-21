@@ -40,6 +40,7 @@ npx cypress run
 
 ## Repositório GitHub
 https://github.com/proade10/prova-final-cypress
+
 Integração Contínua (CI) com GitHub Actions:
 - Status: Sucesso
 - Workflow automatizado criado com Cypress GitHub Action

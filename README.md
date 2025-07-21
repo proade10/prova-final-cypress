@@ -36,3 +36,10 @@ npx cypress run
 - LOGIN_002 - Login com senha incorreta  
 - LOGIN_003 - Login com usuário inexistente  
 - COMPRA_001 - Adicionar item ao carrinho após login
+
+
+## Repositório GitHub
+https://github.com/proade10/prova-final-cypress
+Integração Contínua (CI) com GitHub Actions:
+- Status: Sucesso
+- Workflow automatizado criado com Cypress GitHub Action

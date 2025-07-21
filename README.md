@@ -1,3 +1,7 @@
+![CI](https://github.com/proade10/prova-final-cypress/actions/workflows/ci.yml/badge.svg)
+
+
+
 # Prova Final: Testes Automatizados com Cypress
 
 ## Objetivo
